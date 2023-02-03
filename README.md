@@ -1,12 +1,13 @@
 # E-Learning
-##Objectif:##
+***Objectif:***
 réaliser une application E-Learning qui fournit une plateforme d'apprentissage en ligne pour les utilisateurs.
-
-##Outils utilisés:##
+##
+***Outils utilisés:***
 -java
 -Rmi (Remote Method invocation)
 -javafx
-###Utilisation de l’application:###
+##
+#Utilisation de l’application:
 -il faut exécuter la classe server.java 
 -Aprés ,il faut exécuter la classe LoginApp.java .
 ###
